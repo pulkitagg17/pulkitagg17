@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **amazing projects**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **pulkitaggarwal921@gmail.com**
 
