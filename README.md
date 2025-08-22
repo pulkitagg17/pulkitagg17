@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Reinforcement Learning Application**
- 
- 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
+ 🔭 I’m currently working on **Development**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
