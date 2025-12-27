@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is JavaScript, Tailwind, React, Tailwind and NodeJs. My favorite tools are Figma, Microsoft Paint and Pen-Paper.
 
-I've got a bunch of pinned projects, but my favorite is the **Currently I'am working on**.
+I've got a bunch of pinned projects, but my favorite is which **Currently I'm working on(will be public soon!!)**.
 
 I've built over 25 public repos, but privately… it’s probably more than that at this point.
 
