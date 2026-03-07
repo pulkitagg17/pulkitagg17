@@ -31,6 +31,6 @@ Currently building something new — will be public soon.
 
 ### GitHub Stats
 
-![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulkitagg17&show_icons=true&hide_border=true)
+![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulkitagg17&show_icons=true&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitagg17&layout=compact&hide_border=true)
