@@ -1,21 +1,27 @@
 ## Hey there! 👋
 
-I'm **Pulkit Aggarwal**, a software developer based in India.
+I'm **Pulkit Aggarwal**, a software developer from India.
 
-I design and build whatever I can imagine.
+I like building things — mostly backend systems, web apps, and tools that start as small ideas and slowly turn into real projects.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
+If something sparks my curiosity, chances are I'll try to build it.
 
-My main tech stack is JavaScript, Tailwind, React, Tailwind and NodeJs. My favorite tools are Figma, Microsoft Paint and Pen-Paper.
+My main stack revolves around **JavaScript, Node.js, React, PostgreSQL, Redis and Tailwind**.  
+Most of my recent work explores **scalable backend architecture, async systems and developer tooling**.
 
-I've got a bunch of pinned projects, but my favorite is which **Currently I'm working on(will be public soon!!)**.
+You can explore my work here:
+- 🌐 Portfolio — https://pulkit-aggarwal.vercel.app/
+- 💻 Projects — check out the pinned repositories below
 
-I've built over 25 public repos, but privately… it’s probably more than that at this point.
+I've built **25+ public repositories**, and probably even more experiments that never made it to GitHub.
 
-<!-- If you want to learn how I do it, my **[books / notes / resources]** are available here! -->
+Currently building something new — will be public soon.
 
-### Fun Facts:
-- I have a nokia flip phone.
-- I don’t like cold-tea..
-- True Detective is my favorite show...
-- Hobbies: Reading mind bending books, writing soul bending lines....
+---
+
+### Fun Facts
+
+- I still use a **Nokia flip phone**.
+- I don’t like **cold tea**.
+- *True Detective* is my favorite show.
+- Hobbies: reading mind-bending books and writing soul-bending lines.
