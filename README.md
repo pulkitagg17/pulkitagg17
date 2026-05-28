@@ -11,7 +11,7 @@ Most of my recent work explores **scalable backend architecture, async systems a
 
 You can explore my work here:
 
-🌐 Portfolio — https://pulkit-aggarwal.vercel.app/  
+🌐 Portfolio — coming soon  
 💻 Projects — check out the pinned repositories below
 
 I've built **25+ public repositories**, and probably even more experiments that never made it to GitHub.
